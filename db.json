@@ -1,0 +1,49 @@
+{
+  "productos": [
+    {
+      "nombre": "Rib Eye 800g",
+      "precio": "200",
+      "id": 4
+    },
+    {
+      "nombre": "Jugo de Fresa",
+      "precio": "200",
+      "id": 5
+    },
+    {
+      "nombre": "Papel Higienico",
+      "precio": 150,
+      "id": 6
+    },
+    {
+      "nombre": "papel",
+      "precio": 1,
+      "id": 7
+    },
+    {
+      "nombre": "dfsdgf",
+      "precio": 22,
+      "id": 8
+    },
+    {
+      "nombre": "dfsdgf",
+      "precio": 22,
+      "id": 9
+    },
+    {
+      "nombre": "fgdf",
+      "precio": 200,
+      "id": 10
+    },
+    {
+      "nombre": "Encendedor",
+      "precio": 50,
+      "id": 11
+    },
+    {
+      "nombre": "Vino ",
+      "precio": 900,
+      "id": 12
+    }
+  ]
+}
